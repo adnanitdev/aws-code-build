@@ -1,3 +1,3 @@
 module aws-code-build
 
-go 1.19
+go 1.17
